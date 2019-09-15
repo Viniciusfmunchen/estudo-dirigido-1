@@ -148,6 +148,7 @@ int main () {
         system("pause");
         system("cls");
     }
-
+    
+    cout << "      ";
     return 0;
 }
